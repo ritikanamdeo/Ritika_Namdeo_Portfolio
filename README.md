@@ -1,2 +1,2 @@
-# Ritika Namddeo
+# Ritika Namdeo
 My Portfolio Website
