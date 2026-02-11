@@ -9703,3 +9703,17 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+/* ==== CUSTOM HERO PHOTO ==== */
+
+.hero-pic {
+  width: 380px;
+  height: 380px;
+  border-radius: 50%;
+  background-image: url("../images/about-me.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 30%;
+  border: 14px solid #ffbd39;
+  box-shadow: 0 25px 50px rgba(0,0,0,0.4);
+}
+
